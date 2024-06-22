@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.attribution {
+  font-size: 11px;
+ text-align: center;
+ padding-top:20px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+html,
+body {
+  background-color: hsl(212, 45%, 89%);
+  height: 100%;
+  /* Ensure HTML and body take up full height of the viewport */
+  margin: 0 auto;
+  /* Remove default margins */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* Center content horizontally */
+  align-items: center;
+  /* Center content vertically */
+}
+
+#text {
+  font-family: "outfit", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding-left: 13px;
+  padding-right: 13px;
+  font-size: 18px;
+}
+
+#smalltext {
+  font-family: "outfit", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+  padding-bottom: 20px;
+}
+
+.frame {
+  display: flex;
+  border: 1px solid white;
+  height: calc(100vh-1);
+  /*forces everything in the conatiner to come to the centre*/
+  background-color: hsl(0, 0%, 100%);
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  width: min-content;
+
+  padding: 3px;
+  border-radius: 13px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.03);
+}
+
+.child {
+  display: flex;
+  padding: 10px;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
