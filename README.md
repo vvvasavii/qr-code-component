@@ -25,8 +25,8 @@ This is a very basic,beginner's project made by using only css and html.I was pr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/vvvasavii/qr-code-component)
+- Live Site URL: [Add live site URL here](https://qr-code-component-iota-one.vercel.app/)
 
 ## My process
 I began by first linking the css file and the qr code images.After that I created the body and html tag and used it to choose the background colour and dimensions etc.Then I gave classes and ids to the elements to facilitate the creation of a flexbox to contain the image and texts.Then I styled all of it a bit more according to the reference I was provided and then finally i completed the project.
