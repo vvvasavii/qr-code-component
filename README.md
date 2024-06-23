@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is a very basic,beginner's project made by using only css and html.I was provided some css style cues and qr code image,the rest I had to build myself.
 
 ### Screenshot
-![alt text](../screenshot-qr-component.png)
+![alt text](screenshot-qr-component.png)
 
 ### Links
 
